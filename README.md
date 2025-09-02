@@ -32,3 +32,6 @@ Where:
 
 ## 📂 Structure
 
+
+## Results (Day 2)
+![KF 1D Position](data/kf_1d_position.png)
