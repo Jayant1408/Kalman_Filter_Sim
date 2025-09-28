@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+
+# C++
+build/
+*.o
+*.out
+*.a
+*.so
+*.exe
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
